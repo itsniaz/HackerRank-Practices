@@ -1,2 +1,2 @@
-# HackerRank-Practices
-Accepted solution to the HackerRank problems by me
+# HackerRank-Solutions
+Accepted solutions to the HackerRank problems by me
